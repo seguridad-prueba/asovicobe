@@ -222,6 +222,7 @@ function formatearDia(dia) {
 },
 
 
+  ];
 
 
 
@@ -317,25 +318,10 @@ setInterval(() => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-        
-
         
 
 
-    ];
-
+  
 
 
 
