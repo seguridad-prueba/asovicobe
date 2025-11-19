@@ -226,7 +226,7 @@ function formatearDia(dia) {
 
 
 
-
+ entre 350 Mil and 400
 
         
 
