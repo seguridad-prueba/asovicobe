@@ -224,7 +224,7 @@ function formatearDia(dia) {
 
 
 
-👇
+
 
 
 
