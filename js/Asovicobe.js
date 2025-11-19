@@ -40,19 +40,7 @@ function formatearDia(dia) {
 
 
 
-        //
-        { 
-            
-          //   day: formatearDia("SABADO"),
-           //  date: "4 De Octubre 2025", 
-            // time: "11AM a 9PM", 
-            //completed: true,
-            //isJampier: true  // Identificador
-            
-        },
 
-//
-        
         
         
 
@@ -86,7 +74,7 @@ function formatearDia(dia) {
            { 
             
             day: formatearDia("SABADO"),
-            date: "8 De Octubre 2025", 
+            date: "8 De Noviembre 2025", 
             time: "11AM a 9PM", 
             completed: true,
             isJampier: true  // Identificador
@@ -119,8 +107,8 @@ function formatearDia(dia) {
            { 
             
             day: formatearDia("SABADO - FESTIVO"),
-            date: "15 De Octubre 2025", 
-            time: "11AM a 9PM", 
+            date: "15 De Noviembre 2025", 
+            time: "7AM a 9PM", 
             color: "red",
             completed: true,
             isJampier: true  // Identificador
@@ -153,6 +141,91 @@ function formatearDia(dia) {
             isJampier: true  // Identificador
             
         },
+
+
+
+
+
+
+
+
+
+           { 
+            
+            day: formatearDia("MARTES"),
+            date: "18 De Noviembre 2025", 
+            time: "11AM a 9PM", 
+            color: "red",
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
+
+
+
+
+        
+
+           { 
+            
+            day: formatearDia("SABADO"),
+            date: "22 De Noviembre 2025", 
+            time: "12PM a 9PM", 
+            color: "red",
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
+//
+        
+        
+        
+
+{ 
+    day: formatearDia("DOMINGO"), 
+    date: "23 De Noviembre 2025", 
+    time: "7AM a 9PM", 
+    completed: true,
+    isJampier: true
+},
+
+
+
+
+
+
+
+         { 
+            
+            day: formatearDia("SABADO"),
+            date: "29 De Noviembre 2025", 
+            time: "12PM a 9PM", 
+            color: "red",
+            completed: true,
+            isJampier: true  // Identificador
+            
+        },
+
+//
+        
+        
+        
+
+{ 
+    day: formatearDia("DOMINGO"), 
+    date: "30 De Noviembre 2025", 
+    time: "7AM a 9PM", 
+    completed: true,
+    isJampier: true
+},
+
+
+
+
+
+
 
 
         
